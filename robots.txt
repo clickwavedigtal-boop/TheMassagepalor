@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://clickwavedigtal-boop.github.io/TheMassagepalor/sitemap.xml
+Sitemap: https://www.themassagepalour.co.ke/sitemap.xml
